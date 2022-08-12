@@ -30,18 +30,24 @@ Learn the following, in approximately the order listed:
 
 ## How to make a basic clear vegetable or chicken/beef stock
 
-## 5 "Mother" Sauces
-- Espagnole
-- Veloute
-- Bechamel
-- Tomat
-- Hollandaise
+## The Five "Mother" Sauces
+- Espagnole - Reduced brown stock w/ roux added
+- Veloute - Reduced white stock w/ roux added
+- Bechamel - Milk w/ roux added
+- Tomat - Tomato puree reduced over heat w/ spices, tomato paste (optional)
+- Hollandaise - Emulsion of egg yolk & hot butter
 
 ## Bouquet garni
-TODO
+- A bundle of herbs tied together with string
+- Thyme, bay leaf and parsley.
 
-## Sachet de espices
-TODO
+## Sachet d'épices
+- A small sack of spices
+- Dried thyme
+- Parsley stems
+- Bay leaf
+- Whole peppercorns
+- Whole cloves
 
 ## Cooking methods - High/low, dry/wet; Pros & cons
 - Grill
