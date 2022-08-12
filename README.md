@@ -1,4 +1,4 @@
-#Culinary School in One Page - Cheat Sheet
+# Culinary School in One Page - Cheat Sheet
 
 Learn the following, in approximately the order listed:
 
@@ -28,7 +28,7 @@ Learn the following, in approximately the order listed:
 - Chop, julienne, dice, slice, quarter, half, ribbons, mince, etc.
 - How to sharpen knives & keep sharp (+ danger of dull knife)
 
-How to make a basic clear vegetable or chicken/beef stock
+## How to make a basic clear vegetable or chicken/beef stock
 
 ## 5 "Mother" Sauces
 - Espagnole
@@ -37,8 +37,11 @@ How to make a basic clear vegetable or chicken/beef stock
 - Tomat
 - Hollandaise
 
-Bouquet garni
-Sachet de espices
+## Bouquet garni
+TODO
+
+## Sachet de espices
+TODO
 
 ## Cooking methods - High/low, dry/wet; Pros & cons
 - Grill
@@ -71,11 +74,14 @@ Sachet de espices
 ## How to make pasta
 - Flour, Egg
 
-How to cook grains
+## How to cook grains
+TODO
 
-How to season food properly (salt)
+## How to season food properly (salt)
+TODO
 
-Always taste as you go!
+## Always taste as you go!
+TODO
 
 ## Types of oil
 - Butter, EVOO, Vegetable oil; 
