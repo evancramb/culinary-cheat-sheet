@@ -101,8 +101,13 @@ TODO
 - Fats
 
 ## Five basic tastes:
-- Salt, sweet, sour, bitter, umami
-- Service essentials—
+1. Salt
+2. Sweet
+3. Sour
+4. Bitter
+5. Umami (Savory, meaty)
+
+## Service Basics—
 - Always serve from eaters left side (or non-dominant hand)
 - Never reach across eater
 - Plate & utensil, glassware positioning
